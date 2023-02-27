@@ -1,6 +1,6 @@
 - 👋 Oi, sou Guilherme Henke Saueressig (@ghsaueressig). Tenho 21 anos e sou natural de Santa Rosa - RS.
 - 👀 Estou interessado em estudar linguagens front-end como JavaScript, HTML, PHP, etc.
-- 🌱 Estou atualmente cursando o 6° semestre de Ciência da Computação na UNIJUÍ - Santa Rosa.
+- 🌱 Estou atualmente cursando o 7° semestre de Ciência da Computação na UNIJUÍ - Santa Rosa.
 
 <!---
 ghsaueressig/ghsaueressig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
