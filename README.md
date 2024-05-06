@@ -2,6 +2,7 @@
 - 👀 Estou interessado em estudar tecnologias para desenvolvimento front-end como JavaScript, HTML, CSS, PHP, etc.
 - ✨ Sou um amante de cultura pop, animes, música e tecnologia.
 - 🌱 Estou atualmente cursando Bacharelado em Ciência da Computação na UNIJUÍ - Santa Rosa.
+- 🌱 Atualmente estagiando na empresa santa-rosense Biotecno.
 
 <!---
 ghsaueressig/ghsaueressig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
