@@ -9,8 +9,8 @@ EN:
 - 👋 Hi, I'm Guilherme Henke Saueressig (@ghsaueressig). I'm 22 years old and I'm from Santa Rosa - RS.
 - 👀 I'm interested in studying tecnologies for front-end developing as JavaScript, HTML, CSS, PHP, etc.
 - ✨ I'm a pop culture lover, also enjoy animes, music and other tech related stuff.
-- 🌱 Computer Science Bachelor degree student in UNIJUÍ - Santa Rosa.
-- 🌱 Currently trainee in the Santa Rosa company Biotecno.
+- 🌱 I'm currently studying a Bachelor's degree in Computer Science at UNIJUÍ - Santa Rosa.
+- 🌱 Currently interning at the Santa Rosa company Biotecno.
 
 <!---
 ghsaueressig/ghsaueressig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
