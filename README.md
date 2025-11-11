@@ -3,14 +3,14 @@ PT:
 - 👀 Estou interessado em estudar tecnologias para desenvolvimento web como JavaScript, HTML, CSS, PHP, etc.
 - ✨ Sou um amante de cultura pop, animes, música e tecnologia.
 - 🌱 Estou atualmente cursando Bacharelado em Ciência da Computação na UNIJUÍ - Santa Rosa.
-- 🌱 Anteriormente estagiário de desenvolvimento web na Biotecno.
+- 🌱 Atualmente trabalhando como professor na Hey Peppers.
 
 EN:
 - 👋 Hi, I'm Guilherme Henke Saueressig (@ghsaueressig). I'm 23 years old and I'm from Santa Rosa, Rio Grande do Sul, Brazil.
 - 👀 I'm interested in studying tecnologies for web developing as JavaScript, HTML, CSS, PHP, etc.
 - ✨ I'm a pop culture lover, also enjoy animes, music and other tech related stuff.
 - 🌱 I'm currently studying a Bachelor's degree in Computer Science at UNIJUÍ - Santa Rosa.
-- 🌱 Previously intern at the Santa Rosa company Biotecno.
+- 🌱 Currently working as a teacher in Hey Peppers.
 
 <!---
 ghsaueressig/ghsaueressig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
