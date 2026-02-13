@@ -1,13 +1,13 @@
 PT:
 - 👋 Oi, sou Guilherme Henke Saueressig (@ghsaueressig). Tenho 24 anos e sou natural de Santa Rosa, Rio Grande do Sul, Brasil.
-- 👀 Estou interessado em estudar tecnologias para desenvolvimento web como JavaScript, HTML, CSS, PHP, etc.
+- 👀 Estou interessado em estudar novas tecnologias como inteligência artificial e também para desenvolvimento web como JavaScript, HTML, CSS, PHP, etc.
 - ✨ Sou um amante de cultura pop, animes, música e tecnologia.
 - 🌱 Estou atualmente cursando Bacharelado em Ciência da Computação na UNIJUÍ - Santa Rosa.
 - 🌱 Atualmente trabalhando como professor na Hey Peppers.
 
 EN:
 - 👋 Hi, I'm Guilherme Henke Saueressig (@ghsaueressig). I'm 24 years old and I'm from Santa Rosa, Rio Grande do Sul, Brazil.
-- 👀 I'm interested in studying tecnologies for web developing as JavaScript, HTML, CSS, PHP, etc.
+- 👀 I'm interested in studying new tecnologies such as artificial intelligence and also such as for web developing as JavaScript, HTML, CSS, PHP, etc.
 - ✨ I'm a pop culture lover, also enjoy animes, music and other tech related stuff.
 - 🌱 I'm currently studying a Bachelor's degree in Computer Science at UNIJUÍ - Santa Rosa.
 - 🌱 Currently working as a teacher in Hey Peppers.
