@@ -6,7 +6,7 @@ PT:
 - 🌱 Atualmente trabalhando como professor na Hey Peppers.
 
 EN:
-- 👋 Hi, I'm Guilherme Henke Saueressig (@ghsaueressig). I'm 23 years old and I'm from Santa Rosa, Rio Grande do Sul, Brazil.
+- 👋 Hi, I'm Guilherme Henke Saueressig (@ghsaueressig). I'm 24 years old and I'm from Santa Rosa, Rio Grande do Sul, Brazil.
 - 👀 I'm interested in studying tecnologies for web developing as JavaScript, HTML, CSS, PHP, etc.
 - ✨ I'm a pop culture lover, also enjoy animes, music and other tech related stuff.
 - 🌱 I'm currently studying a Bachelor's degree in Computer Science at UNIJUÍ - Santa Rosa.
