@@ -4,6 +4,7 @@ PT:
 - ✨ Sou um amante de cultura pop, animes, música e tecnologia.
 - 🌱 Estou atualmente cursando Ciência da Computação na UNIJUÍ - Santa Rosa.
 - 🌱 Anteriormente trabalhei como professor na Hey Peppers.
+- 🌱 Atualmente realizando serviços como freelancer e buscando vagas como estagiário ou desenvolvedor júnior.
 
 EN:
 - 👋 Hi, I'm Guilherme Henke Saueressig (@ghsaueressig). I'm 24 years old and I'm from Santa Rosa, Rio Grande do Sul, Brazil.
@@ -11,6 +12,7 @@ EN:
 - ✨ I'm a pop culture lover, also enjoy animes, music and other tech related stuff.
 - 🌱 I'm currently studying Computer Science at UNIJUÍ - Santa Rosa.
 - 🌱 Previously worked as a teacher in Hey Peppers.
+- 🌱 Currently working as a freelancer and seeking internship or junior developer positions.
 
 <!---
 ghsaueressig/ghsaueressig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
